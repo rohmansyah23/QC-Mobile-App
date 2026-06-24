@@ -48,15 +48,14 @@ SUPABASE_URL=Isi_dengan_url_projek_supabase_anda
 SUPABASE_KEY=Isi_dengan_kunci_anon_projek_supabase_anda
 ```
 
-2. Sinkronkan Plugin & Paket Dependensi Buka Terminal/Console, eksekusi
+**2. Sinkronkan Plugin & Paket Dependensi Buka Terminal/Console, eksekusi**
 penyatuan tulang punggung App ini:
-
 ```
 flutter clean
 flutter pub get
 ```
 
-3. Nyalakan ke Layar Android / Emulator Kalian!
+**3. Nyalakan ke Layar Android / Emulator Kalian!**
 ```
 flutter run
 ```
