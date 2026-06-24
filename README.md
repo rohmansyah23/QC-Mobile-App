@@ -46,21 +46,27 @@ Keamanan adalah prioritas. Repository ini tidak men-publish kunci ke database su
 ```env
 SUPABASE_URL=Isi_dengan_url_projek_supabase_anda
 SUPABASE_KEY=Isi_dengan_kunci_anon_projek_supabase_anda
+```
 
 2. Sinkronkan Plugin & Paket Dependensi Buka Terminal/Console, eksekusi
 penyatuan tulang punggung App ini:
 
+```
 flutter clean
 flutter pub get
+```
 
 3. Nyalakan ke Layar Android / Emulator Kalian!
-
+```
 flutter run
+```
 
 Untuk mengompile atau membuat App (Mesin Cetak Ringan) yang siap dipasang,
 eksekusikan build:
 
+```
 flutter build apk --split-per-abi --obfuscate --split-debug-info=build/app/outputs/symbols
+```
 
 📐 Skema Basis Data Dasar
 
