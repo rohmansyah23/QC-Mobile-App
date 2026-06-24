@@ -26,10 +26,10 @@ Tinggalkan cara lama berdebat soal "Uang ini bayar pakai rekening siapa?". O&C m
 
 | Jejak Kita (Beranda) | Input Brankas Baru (Form) | Sketsa Cerita (Analitik Grafik) |
 | :---: | :---: | :---: |
-| <img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-37-145_com example couple_savings" src="https://github.com/user-attachments/assets/a053bd11-4b87-40fc-957c-d426a11af8fa" />
- | <img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-45-796_com example couple_savings" src="https://github.com/user-attachments/assets/aced0670-de9c-468d-a641-cba1e2ae5758" />
- | <img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-59-680_com example couple_savings" src="https://github.com/user-attachments/assets/813bd105-f36f-4846-a1b2-47875a0e2fda" />
- |
+| [<img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-37-145_com example couple_savings" src="https://github.com/user-attachments/assets/19789773-e024-4b7e-90b0-bfed916a6252" />
+] | [<img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-45-796_com example couple_savings" src="https://github.com/user-attachments/assets/514a4e64-7649-4daa-ac31-edff7f9c90c2" />
+] | [<img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-59-680_com example couple_savings" src="https://github.com/user-attachments/assets/596d863b-78c8-42fb-8cdd-00efef3023d5" />
+] |
 
 ---
 
