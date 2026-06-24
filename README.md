@@ -26,7 +26,10 @@ Tinggalkan cara lama berdebat soal "Uang ini bayar pakai rekening siapa?". O&C m
 
 | Jejak Kita (Beranda) | Input Brankas Baru (Form) | Sketsa Cerita (Analitik Grafik) |
 | :---: | :---: | :---: |
-| [ https://drive.google.com/file/d/1Y6wyJ_g222RZAPdBYP1iIDvtT53dbfTs/view?usp=drive_link ] | [ https://drive.google.com/file/d/1b6N0Z1Pwg7qyomtEMeof0E-2ZEhsAZQw/view?usp=drive_link ] | [ https://drive.google.com/file/d/191SFS8I1VgDjJ9etetAjALlTCZ8yB05h/view?usp=drive_link ] |
+| <img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-37-145_com example couple_savings" src="https://github.com/user-attachments/assets/a053bd11-4b87-40fc-957c-d426a11af8fa" />
+ | <img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-45-796_com example couple_savings" src="https://github.com/user-attachments/assets/aced0670-de9c-468d-a641-cba1e2ae5758" />
+ | <img width="1080" height="2246" alt="Screenshot_2026-06-25-00-14-59-680_com example couple_savings" src="https://github.com/user-attachments/assets/813bd105-f36f-4846-a1b2-47875a0e2fda" />
+ |
 
 ---
 
